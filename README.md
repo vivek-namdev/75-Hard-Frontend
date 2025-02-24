@@ -2,7 +2,7 @@
 
 It is a 75 days progress tracker website. A user can keep track of progress by uploading a selfie everyday.
 
-- [@Backend Url](https://github.com/DavidGoyal/75Hard-Backend.git)
+- [@Backend Url](https://github.com/vivek-namdev/75-Hard-Backend.git)
 
 ## Installation
 
@@ -24,7 +24,3 @@ To run this project, you will need to add the following environment variables to
 
 ![App Screenshot](https://iili.io/dfB47rF.png)
 
-## Authors
-
-- [@LinkedIn](www.linkedin.com/in/david-goyal)
-- [@X](https://x.com/David__Goyal)
